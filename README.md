@@ -1,5 +1,8 @@
-<h1 align="center">Hello World 👋, I'm Pablo Rodríguez</h1>
-<h3 align="center">A passionate Software Developer and IT Student from Costa Rica 🇨🇷</h3>
+<h1 align="center">Hello World 👋🏼, I'm Pablo Rodríguez</h1>
+<h3 align="left">A passionate Software Developer and IT Student from Costa Rica 🇨🇷</h3>
+
+
+
 
 - 🔭 I’m currently working as a **Junior Software Developer at IT Rossmon**
 
