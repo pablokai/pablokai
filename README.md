@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋🏼, I'm Pablo Rodríguez</h1>
 <h3 align="left">A passionate Software Developer and IT Student from Costa Rica 🇨🇷</h3>
-
+<img align="right" src="https://github.com/pablokai/pablokai/blob/main/Coding%20_Monochromatic.svg" alt="Pablo Rodriguez Guzman">
 
 
 
