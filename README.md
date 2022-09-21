@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working as a **Junior Software Developer at IT Rossmon**
+- 🔭 I’m currently working as a **Software Developer at IT Rossmon**
 
 - 🌱 I’m currently learning **React, Redux and JS**
 
