@@ -1,12 +1,12 @@
 <h1 align="center">Hello World 👋🏼, I'm Pablo Rodríguez</h1>
-<h3 align="left">A passionate Software Developer and IT Student from Costa Rica 🇨🇷</h3>
+<h3 align="left">A passionate Software Developer and Systems engineering student from Costa Rica 🇨🇷</h3>
 <img align="right" src="https://github.com/pablokai/pablokai/blob/main/Coding%20_Monochromatic.svg" alt="Pablo Rodriguez Guzman">
 
 
 
 - 🔭 I’m currently working as a **Software Developer at IT Rossmon**
 
-- 🌱 I’m currently learning **React, Redux and JS**
+- 🌱 I’m currently learning **React and Azure**
 
 - 📫 How to reach me **rgpablocr@gmail.com**
 
