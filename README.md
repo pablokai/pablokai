@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Software Developer at IT Rossmon**
 
-- 🌱 I’m currently learning **React and Azure**
+- 🌱 I’m currently learning **Angular and Azure**
 
 - 📫 How to reach me **rgpablocr@gmail.com**
 
